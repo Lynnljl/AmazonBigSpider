@@ -12,6 +12,14 @@ Env Config See [http://www.lenggirl.com/tool/centos7.html](http://www.lenggirl.c
 
 英文已经凌乱，仔细阅读，有益身心，中文见[中文版说明](china.md)
 
+如果你觉得项目帮助到你，欢迎请我喝杯咖啡
+
+微信
+![微信](https://raw.githubusercontent.com/hunterhug/hunterhug.github.io/master/static/jpg/wei.png)
+
+支付宝
+![支付宝](https://raw.githubusercontent.com/hunterhug/hunterhug.github.io/master/static/jpg/ali.png)
+
 # Distributed GoAmazon Spider
 Ad API Go to [http://affiliate-program.amazon.com/](http://affiliate-program.amazon.com/)
 
